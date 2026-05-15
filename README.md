@@ -1,7 +1,7 @@
-# multi-liste
+# MultiListe
+**An API that allows you to obtain a list of MultiCraft game servers**
 
 
-Ce script crée une page web avec un tableau et la liste des serveur Multi avec pleins d'informations.
 
 ## Sinon
 
