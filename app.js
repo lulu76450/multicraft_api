@@ -13,7 +13,7 @@ const TARGETS = [
 const HEADERS_TO_FORWARD = {
   "User-Agent": "MultiCraft/2.0.14 Android [Linux/5.15.180-android13-3-32001549 aarch64]",
   "Accept": "*/*",
-  "Accept-Language": "fr",
+  "Accept-Language": "all",
   "Content-Type": "application/json",
 };
 
