@@ -1,6 +1,22 @@
 # 🌍 MultiCraft API
 **Get the list of the MultiCraft servers with this API**
 
-# Only on Codeberg now
-New updates will not be available in GitHub, but only on Codeberg
-https://codeberg.org/lucas76/multicraft_api/
+
+# Instructions
+### No self-host
+Use [https://multicraft-api.creatif-france.workers.dev/](https://multicraft-api.creatif-france.workers.dev/)
+No commercial use is allowed.
+
+### Self-host
+The code is in this project, deploy it and it's done !
+
+# How this works ?
+The API retrieves the list directly from MultiCraft's servers by impersonating a normal device. 
+
+
+# Affiliation and license
+I'm not affiliated or allowed by MultiCraft.
+The code is licenced under Apache 2.0, check License file.
+
+
+
